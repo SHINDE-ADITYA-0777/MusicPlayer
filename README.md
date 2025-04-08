@@ -1,5 +1,11 @@
-# Django based music streaming website
-> https://galvanic-music.herokuapp.com/
+# Music Player by aditya 
+This is a music streaming website I created for my college project.
+Features:
+- Play music online
+- Custom user interface
+- Easy to use
+
+Built using Django framework with my own modifications. 
 
 ![GitHub stars](https://img.shields.io/github/stars/rajaprerak/MusicPlayer) 
 [![Maintenance](https://img.shields.io/badge/maintained-yes-green.svg)](https://github.com/rajaprerak/MusicPlayer/commits/master)
